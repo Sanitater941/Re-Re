@@ -1,7 +1,9 @@
 package com.example.myproject;
 
 import android.content.Intent;
+import android.icu.text.CaseMap;
 import android.os.Bundle;
+import android.service.quicksettings.Tile;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -9,7 +11,6 @@ import android.widget.Button;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
-
     Button b1, b2;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
