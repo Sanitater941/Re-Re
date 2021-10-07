@@ -1,4 +1,4 @@
-# Re-Re
+### Re-Re
 Restraunt Reservation and Grade Calculator
 
 ● You can use this Application during the semester
