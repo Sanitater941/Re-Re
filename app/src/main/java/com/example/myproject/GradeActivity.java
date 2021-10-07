@@ -76,6 +76,7 @@ public class GradeActivity extends AppCompatActivity {
             e1.setText("");
             e2.setText("");
             e3.setText("");
+            e4.setText("");
             i1.setVisibility(View.GONE);
             t1.setText(0+"점");
             t2.setText(0+"점");
