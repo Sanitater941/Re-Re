@@ -18,7 +18,7 @@ Restraunt Reservation and Grade Calculator
 ## When Subject change what you want
 ● Change Android: text = "your subject" of TextView in activity_grade.xml
 
-● There is four Android: text = "my subject" So, you have to change your subject when you use this Application
+● There is four Android: text = "my subject" So, you have to change your subject when use this Application
 
 ![9](https://user-images.githubusercontent.com/73449937/136383001-3d86d959-1417-4303-9c76-df8bab08379d.PNG)
 
