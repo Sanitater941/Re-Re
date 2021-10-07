@@ -32,6 +32,10 @@ Restraunt Reservation and Grade Calculator
 
 ## Result Screen
 ● Show Reservation Date, Time and Count of People you reservate
+
+![8](https://user-images.githubusercontent.com/73449937/136382964-71ec5b3a-2193-44e9-b7a4-845eac456ee4.PNG)
+
+
 ![9](https://user-images.githubusercontent.com/73449937/136383001-3d86d959-1417-4303-9c76-df8bab08379d.PNG)
 
 
